@@ -1,0 +1,40 @@
+[
+    {
+        "_id": 101,
+        "productName": "Laptop",
+        "brand": "TechCorp",
+        "specs": [
+            "16GB RAM",
+            "512GB SSD",
+            "Intel i7"
+        ]
+    },
+    {
+        "_id": 102,
+        "productName": "Headphones",
+        "brand": "AudioTech",
+        "specs": [
+            "Noise Cancelling",
+            "Bluetooth",
+            "8hr Battery"
+        ]
+    },
+    {
+        "_id": 103,
+        "productName": "Mouse",
+        "brand": "TechCorp",
+        "specs": [
+            "Wireless",
+            "Optical"
+        ]
+    },
+    {
+        "_id": 104,
+        "productName": "Keyboard",
+        "brand": "TechWorks",
+        "specs": [
+            "Mechanical",
+            "RGB Backlit"
+        ]
+    }
+]
